@@ -40,7 +40,7 @@ int main(){
 	
 		int server_socket = socket(domain, type, protocol);
 
-		int socket_bind = bind(server_socket, (const struct sockaddr *) &address, sizeof(address));
+		int socket_bind = ::bind(server_socket, (const struct sockaddr *) &address, sizeof(address));
 
 		int server_listen = listen(server_socket, backlog);
 		
