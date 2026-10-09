@@ -1,0 +1,4 @@
+/Users/mikaelamatthews/Programming/Sockets/mac_build/CMakeFiles/server.dir
+/Users/mikaelamatthews/Programming/Sockets/mac_build/CMakeFiles/client.dir
+/Users/mikaelamatthews/Programming/Sockets/mac_build/CMakeFiles/edit_cache.dir
+/Users/mikaelamatthews/Programming/Sockets/mac_build/CMakeFiles/rebuild_cache.dir
