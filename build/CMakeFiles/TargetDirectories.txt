@@ -1,0 +1,4 @@
+/home/mikkimat5412/Sockets/build/CMakeFiles/server.dir
+/home/mikkimat5412/Sockets/build/CMakeFiles/client.dir
+/home/mikkimat5412/Sockets/build/CMakeFiles/edit_cache.dir
+/home/mikkimat5412/Sockets/build/CMakeFiles/rebuild_cache.dir
